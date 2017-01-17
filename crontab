@@ -1,0 +1,2 @@
+# Auto-updates the feeds every 30 mins
+30 * * * * php /var/www/html/cron.php
