@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<opml version="1.1">
+<head>
+  <title>My Planet</title>
+  <dateCreated>1970-01-01T00:00:00+00:00</dateCreated>
+  <dateModified>1970-01-01T00:00:00+00:00</dateModified>
+</head>
+<body>
+  <!-- Example entry -->
+  <!-- <outline text="news.detik" htmlUrl="http://news.detik.com/" xmlUrl="http://rss.detik.com/index.php/detikcom" isDown="0"/> -->
+</body>

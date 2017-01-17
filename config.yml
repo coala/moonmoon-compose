@@ -1,0 +1,8 @@
+url: localhost
+name: My Planet
+locale: en
+items: 10
+shuffle: 0
+refresh: 0
+cache: 10
+cachedir: ./cache
