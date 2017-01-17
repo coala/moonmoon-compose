@@ -1,0 +1,9 @@
+version: '2'
+services:
+  moonmoon:
+    build: .
+    volumes:
+      - ./config.yml:/var/www/html/custom/config.yml
+      - ./people.opml:/var/www/html/custom/people.opml
+    ports:
+      - 127.0.0.1:8080:80
