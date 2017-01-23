@@ -1,8 +1,11 @@
-url: localhost
-name: My Planet
+---
+url: http%3A%2F%2Fblog.coala.io%2F
+name: Planet coala
 locale: en
-items: 10
+items: 20
 shuffle: 0
-refresh: 0
-cache: 10
+refresh: 540
+cache: 50
+nohtml: 0
+postmaxlength: 0
 cachedir: ./cache

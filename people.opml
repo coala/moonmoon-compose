@@ -1,11 +1,21 @@
 <?xml version="1.0"?>
 <opml version="1.1">
 <head>
-  <title>My Planet</title>
-  <dateCreated>1970-01-01T00:00:00+00:00</dateCreated>
-  <dateModified>1970-01-01T00:00:00+00:00</dateModified>
+<title>Planet coala</title>
+<dateCreated>2017-01-14T13:15:24+00:00</dateCreated>
+<dateModified>2017-01-14T13:15:24+00:00</dateModified>
 </head>
 <body>
-  <!-- Example entry -->
-  <!-- <outline text="news.detik" htmlUrl="http://news.detik.com/" xmlUrl="http://rss.detik.com/index.php/detikcom" isDown="0"/> -->
+<outline text="Lasse's Blog" htmlUrl="http://wordpress.schuirmann.eu/" xmlUrl="http://wordpress.schuirmann.eu/feed/" isDown=""/>
+<outline text="learningstuffeveryday" htmlUrl="https://learningstuffeveryday.wordpress.com/" xmlUrl="https://learningstuffeveryday.wordpress.com/feed/" isDown=""/>
+<outline text="GSoC – coala" htmlUrl="https://gsoccoala.wordpress.com/" xmlUrl="https://gsoccoala.wordpress.com/feed/" isDown=""/>
+<outline text="coala - Yet another noob blog" htmlUrl="http://blog.redridge.me/" xmlUrl="http://blog.redridge.me/tag/coala/rss/" isDown="1"/>
+<outline text="planetgnome – Abdeali JK" htmlUrl="https://abdealijk.wordpress.com/" xmlUrl="https://abdealijk.wordpress.com/category/planetgnome/feed/" isDown=""/>
+<outline text="SanketDG" htmlUrl="http://yourdomain.com/" xmlUrl="http://sanketdg.github.io/feed.xml" isDown=""/>
+<outline text="Sheikh Araf" htmlUrl="https://sheikharaf.me/" xmlUrl="https://sheikharaf.me/feed_gsoc16.xml" isDown=""/>
+<outline text="Stories by Sebastien Luong on Medium" htmlUrl="https://medium.com/@SebastienLuong?source=rss-62b0e0529892------2" xmlUrl="https://medium.com/feed/@SebastienLuong/" isDown=""/>
+<outline text="udayantandon" htmlUrl="https://udayantandon.wordpress.com/" xmlUrl="https://udayantandon.wordpress.com/feed/" isDown="1"/>
+<outline text="coala" htmlUrl="http://hemangsk.github.io/" xmlUrl="https://hemangsk.github.io/feed.coala.xml" isDown="1"/>
+<outline text="GitMate" htmlUrl="http://blog.gitmate.io/" xmlUrl="http://blog.gitmate.io/feed.xml" isDown=""/>
 </body>
+</opml>
